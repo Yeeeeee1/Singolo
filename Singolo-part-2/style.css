@@ -1,0 +1,309 @@
+body {
+	width: 1020px;
+	margin: 0 auto;
+}
+
+.main {
+	width: 1020px;
+	height: 870px;
+	background-color: #2d303a;
+}
+
+.portfolio {
+	width: 1020px;
+	height: 190px;
+}
+
+.portfolio-name {
+	margin-top: 69px;
+	margin-left: 40px;
+	position: absolute;
+	font-size: 30px;
+line-height: 18px;
+color: #666d89;
+font-family: "Lato", sans-serif;
+font-weight: 900;
+text-align: left;
+}
+
+.portfolio-text {
+	margin-top: 114px;
+	margin-left: 40px;
+	position: absolute;
+	width: 940px;
+height: 57px;
+font-size: 18px;
+line-height: 30px;
+color: #767e9e;
+font-family: "Lato", sans-serif;
+font-weight: 300;
+text-align: left;
+}
+
+.portfolio-all {
+	cursor: pointer;
+	text-align: center;
+	width: 27px;
+	height: 20px;
+	border-radius: 5px;
+	border: solid white 1px;
+	margin-top: 155px;
+	margin-left: 41px;
+	position: absolute;
+	font-size: 12px;
+line-height: 22px;
+color: #dedede;
+font-family: "Lato" ,sans-serif;
+font-weight: 400;
+}
+
+.portfolio-web-design {
+width: 77px;
+height: 20px;
+border-radius: 5px;
+border: 1px solid #666d89;
+	cursor: pointer;
+	margin-left: 80px;
+	margin-top: 155px;
+	position: absolute;
+	font-size: 12px;
+line-height: 22px;
+color: #767e9e;
+font-family: "Lato";
+font-weight: 400;
+text-align: center;
+}
+
+.portfolio-graphic-design {
+	width: 91px;
+height: 20px;
+border-radius: 5px;
+border: 1px solid #666d89;
+	cursor: pointer;
+	margin-left: 168px;
+	margin-top: 155px;
+	position: absolute;
+font-size: 12px;
+line-height: 22px;
+color: #767e9e;
+font-family: "Lato";
+font-weight: 400;
+text-align: center;
+}
+
+.portfolio-artwork {
+	width: 55px;
+height: 20px;
+border-radius: 5px;
+border: 1px solid #666d89;
+	cursor: pointer;
+	margin-left: 271px;
+	margin-top: 155px;
+	position: absolute;
+font-size: 12px;
+line-height: 22px;
+color: #767e9e;
+font-family: "Lato";
+font-weight: 400;
+text-align: center;
+}
+
+.block-1 {
+	margin-left: 40px;
+	margin-top: 5px;
+	position: absolute;
+	width: 220px;
+  height: 603px;
+}
+
+.block-2 {
+	margin-left: 280px;
+	margin-top: 5px;
+	position: absolute;
+	width: 220px;
+  height: 603px;
+}
+
+.block-3 {
+	margin-left: 520px;
+	margin-top: 5px;
+	position: absolute;
+	width: 220px;
+  height: 603px;
+}
+
+.block-4 {
+	margin-left: 760px;
+	margin-top: 5px;
+	position: absolute;
+	width: 220px;
+  height: 603px;
+}
+
+.line {
+	position: absolute;
+	margin-top: 675px;
+	width: 1020px;
+height: 5px;
+background-color: #323746;
+}
+
+.footer {
+	width: 1020px;
+height: 728px;
+background-color: #f2f2f2;
+}
+
+.about-us-block {
+	width: 1020px;
+	height: 200px;
+}
+
+.about-us {
+	position: absolute;
+	margin-top: 68px;
+	margin-left: 40px;
+	font-size: 30px;
+line-height: 18px;
+color: #666d89;
+font-family: "Lato";
+font-weight: 900;
+text-align: left;
+}
+
+.about-us-text {
+	position: absolute;
+	margin-top: 113px;
+	margin-left: 40px;
+	width: 940px;
+height: 57px;
+font-size: 18px;
+line-height: 30px;
+color: #767e9e;
+font-family: "Lato";
+font-weight: 300;
+text-align: left;
+}
+
+.about-us-people {
+	width: 1020px;
+	height: 500px;
+}
+
+.footer-line {
+	position: absolute;
+	margin-top: 42px;
+	width: 1020px;
+height: 6px;
+background-color: #ffffff;
+}
+
+.picture-one {
+	margin-top: 1px;
+}
+
+.picture-two {
+	margin-top: 17px;
+}
+
+.picture-three {
+	margin-top: 17px;
+}
+
+.people-one {
+	position: absolute;
+	margin-top: 18px;
+	margin-left: 40px;
+	width: 300px;
+	height: 455px;
+}
+
+.people-two {
+	position: absolute;
+	margin-top: 18px;
+	margin-left: 359px;
+	width: 300px;
+	height: 455px;
+}
+
+.people-three {
+	position: absolute;
+	margin-top: 18px;
+	margin-left: 680px;
+	width: 300px;
+	height: 455px;
+}
+
+.adam-jensen {
+	font-size: 18px;
+line-height: 18px;
+color: #666d89;
+font-family: "Lato";
+font-weight: 900;
+text-align: left;
+}
+
+.desmond-miles {
+	font-size: 18px;
+line-height: 18px;
+color: #666d89;
+font-family: "Lato";
+font-weight: 900;
+text-align: left;
+}
+
+.scolara-visari {
+	font-size: 18px;
+line-height: 18px;
+color: #666d89;
+font-family: "Lato";
+font-weight: 900;
+text-align: left;
+}
+
+.adam-jensen-text {
+	width: 300px;
+height: 53px;
+font-size: 12px;
+line-height: 22px;
+color: #767e9e;
+font-family: "Lato";
+font-weight: 400;
+text-align: left;
+}
+
+.desmond-miles-text {
+	width: 300px;
+height: 53px;
+font-size: 12px;
+line-height: 22px;
+color: #767e9e;
+font-family: "Lato";
+font-weight: 400;
+text-align: left;
+}
+
+.scolara-visari-text {
+	width: 300px;
+height: 53px;
+font-size: 12px;
+line-height: 22px;
+color: #767e9e;
+font-family: "Lato";
+font-weight: 400;
+text-align: left;
+}
+
+.buttons {
+	width: 300px;
+	height: 50px;
+}
+
+.button {
+	margin-left: 3px;
+	cursor: pointer;
+	width: 32px;
+height: 32px;
+border-radius: 16px;
+border: 1px solid #666d89;
+}
